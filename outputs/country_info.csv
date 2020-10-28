@@ -1,0 +1,250 @@
+,Numeric code,English short name (using title case),Independent,Code,Sink OFC,Conduit OFC
+0,4, Afghanistan,Yes,AFG,No,No
+1,248, Åland Islands,No,ALA,No,No
+2,8, Albania,Yes,ALB,No,No
+3,12, Algeria,Yes,DZA,No,No
+4,16, American Samoa,No,ASM,No,No
+5,20, Andorra,Yes,AND,Yes,No
+6,24, Angola,Yes,AGO,No,No
+7,660, Anguilla,No,AIA,Yes,No
+8,10, Antarctica,No,ATA,No,No
+9,28, Antigua and Barbuda,Yes,ATG,Yes,No
+10,32, Argentina,Yes,ARG,No,No
+11,51, Armenia,Yes,ARM,No,No
+12,533, Aruba,No,ABW,Yes,No
+13,36, Australia,Yes,AUS,No,No
+14,40, Austria,Yes,AUT,No,No
+15,31, Azerbaijan,Yes,AZE,No,No
+16,44, Bahamas,Yes,BHS,Yes,No
+17,48, Bahrain,Yes,BHR,Yes,No
+18,50, Bangladesh,Yes,BGD,No,No
+19,52, Barbados,Yes,BRB,Yes,No
+20,112, Belarus,Yes,BLR,No,No
+21,56, Belgium,Yes,BEL,No,No
+22,84, Belize,Yes,BLZ,Yes,No
+23,204, Benin,Yes,BEN,No,No
+24,60, Bermuda,No,BMU,Yes,No
+25,64, Bhutan,Yes,BTN,No,No
+26,68, Bolivia (Plurinational State of),Yes,BOL,No,No
+27,535," Bonaire, Sint Eustatius and Saba",No,BES,No,No
+28,70, Bosnia and Herzegovina,Yes,BIH,No,No
+29,72, Botswana,Yes,BWA,No,No
+30,74, Bouvet Island,No,BVT,No,No
+31,76, Brazil,Yes,BRA,No,No
+32,86, British Indian Ocean Territory,No,IOT,No,No
+33,96, Brunei Darussalam,Yes,BRN,No,No
+34,100, Bulgaria,Yes,BGR,No,No
+35,854, Burkina Faso,Yes,BFA,No,No
+36,108, Burundi,Yes,BDI,No,No
+37,132, Cabo Verde,Yes,CPV,No,No
+38,116, Cambodia,Yes,KHM,No,No
+39,120, Cameroon,Yes,CMR,No,No
+40,124, Canada,Yes,CAN,No,No
+41,136, Cayman Islands,No,CYM,Yes,No
+42,140, Central African Republic,Yes,CAF,No,No
+43,148, Chad,Yes,TCD,No,No
+44,152, Chile,Yes,CHL,No,No
+45,156, China,Yes,CHN,No,No
+46,162, Christmas Island,No,CXR,No,No
+47,166, Cocos (Keeling) Islands,No,CCK,No,No
+48,170, Colombia,Yes,COL,No,No
+49,174, Comoros,Yes,COM,No,No
+50,178, Congo,Yes,COG,No,No
+51,180," Congo, Democratic Republic of the",Yes,COD,No,No
+52,184, Cook Islands,No,COK,Yes,No
+53,188, Costa Rica,Yes,CRI,No,No
+54,384, Côte d'Ivoire,Yes,CIV,No,No
+55,191, Croatia,Yes,HRV,No,No
+56,192, Cuba,Yes,CUB,No,No
+57,531, Curaçao,No,CUW,Yes,No
+58,196, Cyprus,Yes,CYP,Yes,No
+59,203, Czechia,Yes,CZE,No,No
+60,208, Denmark,Yes,DNK,No,No
+61,262, Djibouti,Yes,DJI,No,No
+62,212, Dominica,Yes,DMA,Yes,No
+63,214, Dominican Republic,Yes,DOM,No,No
+64,218, Ecuador,Yes,ECU,No,No
+65,818, Egypt,Yes,EGY,No,No
+66,222, El Salvador,Yes,SLV,No,No
+67,226, Equatorial Guinea,Yes,GNQ,No,No
+68,232, Eritrea,Yes,ERI,No,No
+69,233, Estonia,Yes,EST,No,No
+70,748, Eswatini,Yes,SWZ,No,No
+71,231, Ethiopia,Yes,ETH,No,No
+72,238, Falkland Islands (Malvinas),No,FLK,No,No
+73,234, Faroe Islands,No,FRO,No,No
+74,242, Fiji,Yes,FJI,No,No
+75,246, Finland,Yes,FIN,No,No
+76,250, France,Yes,FRA,No,No
+77,254, French Guiana,No,GUF,No,No
+78,258, French Polynesia,No,PYF,No,No
+79,260, French Southern Territories,No,ATF,No,No
+80,266, Gabon,Yes,GAB,No,No
+81,270, Gambia,Yes,GMB,No,No
+82,268, Georgia,Yes,GEO,No,No
+83,276, Germany,Yes,DEU,No,No
+84,288, Ghana,Yes,GHA,No,No
+85,292, Gibraltar,No,GIB,Yes,No
+86,300, Greece,Yes,GRC,No,No
+87,304, Greenland,No,GRL,No,No
+88,308, Grenada,Yes,GRD,Yes,No
+89,312, Guadeloupe,No,GLP,No,No
+90,316, Guam,No,GUM,No,No
+91,320, Guatemala,Yes,GTM,No,No
+92,831, Guernsey,No,GGY,Yes,No
+93,324, Guinea,Yes,GIN,No,No
+94,624, Guinea-Bissau,Yes,GNB,No,No
+95,328, Guyana,Yes,GUY,No,No
+96,332, Haiti,Yes,HTI,No,No
+97,334, Heard Island and McDonald Islands,No,HMD,No,No
+98,336, Holy See,Yes,VAT,No,No
+99,340, Honduras,Yes,HND,No,No
+100,344, Hong Kong,No,HKG,Yes,No
+101,348, Hungary,Yes,HUN,No,No
+102,352, Iceland,Yes,ISL,No,No
+103,356, India,Yes,IND,No,No
+104,360, Indonesia,Yes,IDN,No,No
+105,364, Iran (Islamic Republic of),Yes,IRN,No,No
+106,368, Iraq,Yes,IRQ,No,No
+107,372, Ireland,Yes,IRL,No,Yes
+108,833, Isle of Man,No,IMN,Yes,No
+109,376, Israel,Yes,ISR,No,No
+110,380, Italy,Yes,ITA,No,No
+111,388, Jamaica,Yes,JAM,No,No
+112,392, Japan,Yes,JPN,No,No
+113,832, Jersey,No,JEY,Yes,No
+114,400, Jordan,Yes,JOR,No,No
+115,398, Kazakhstan,Yes,KAZ,No,No
+116,404, Kenya,Yes,KEN,No,No
+117,296, Kiribati,Yes,KIR,No,No
+118,408, Korea (Democratic People's Republic of),Yes,PRK,No,No
+119,410," Korea, Republic of",Yes,KOR,No,No
+120,414, Kuwait,Yes,KWT,No,No
+121,417, Kyrgyzstan,Yes,KGZ,No,No
+122,418, Lao People's Democratic Republic,Yes,LAO,No,No
+123,428, Latvia,Yes,LVA,No,No
+124,422, Lebanon,Yes,LBN,No,No
+125,426, Lesotho,Yes,LSO,No,No
+126,430, Liberia,Yes,LBR,Yes,No
+127,434, Libya,Yes,LBY,No,No
+128,438, Liechtenstein,Yes,LIE,Yes,No
+129,440, Lithuania,Yes,LTU,No,No
+130,442, Luxembourg,Yes,LUX,Yes,No
+131,446, Macao,No,MAC,Yes,No
+132,450, Madagascar,Yes,MDG,No,No
+133,454, Malawi,Yes,MWI,No,No
+134,458, Malaysia,Yes,MYS,No,No
+135,462, Maldives,Yes,MDV,Yes,No
+136,466, Mali,Yes,MLI,No,No
+137,470, Malta,Yes,MLT,Yes,No
+138,584, Marshall Islands,Yes,MHL,Yes,No
+139,474, Martinique,No,MTQ,No,No
+140,478, Mauritania,Yes,MRT,No,No
+141,480, Mauritius,Yes,MUS,Yes,No
+142,175, Mayotte,No,MYT,No,No
+143,484, Mexico,Yes,MEX,No,No
+144,583, Micronesia (Federated States of),Yes,FSM,No,No
+145,498," Moldova, Republic of",Yes,MDA,No,No
+146,492, Monaco,Yes,MCO,Yes,No
+147,496, Mongolia,Yes,MNG,No,No
+148,499, Montenegro,Yes,MNE,No,No
+149,500, Montserrat,No,MSR,Yes,No
+150,504, Morocco,Yes,MAR,No,No
+151,508, Mozambique,Yes,MOZ,No,No
+152,104, Myanmar,Yes,MMR,No,No
+153,516, Namibia,Yes,NAM,No,No
+154,520, Nauru,Yes,NRU,Yes,No
+155,524, Nepal,Yes,NPL,No,No
+156,528, Netherlands,Yes,NLD,No,Yes
+157,540, New Caledonia,No,NCL,No,No
+158,554, New Zealand,Yes,NZL,No,No
+159,558, Nicaragua,Yes,NIC,No,No
+160,562, Niger,Yes,NER,No,No
+161,566, Nigeria,Yes,NGA,No,No
+162,570, Niue,No,NIU,Yes,No
+163,574, Norfolk Island,No,NFK,No,No
+164,807, North Macedonia,Yes,MKD,No,No
+165,580, Northern Mariana Islands,No,MNP,No,No
+166,578, Norway,Yes,NOR,No,No
+167,512, Oman,Yes,OMN,No,No
+168,586, Pakistan,Yes,PAK,No,No
+169,585, Palau,Yes,PLW,No,No
+170,275," Palestine, State of",No,PSE,No,No
+171,591, Panama,Yes,PAN,Yes,No
+172,598, Papua New Guinea,Yes,PNG,No,No
+173,600, Paraguay,Yes,PRY,No,No
+174,604, Peru,Yes,PER,No,No
+175,608, Philippines,Yes,PHL,No,No
+176,612, Pitcairn,No,PCN,No,No
+177,616, Poland,Yes,POL,No,No
+178,620, Portugal,Yes,PRT,No,No
+179,630, Puerto Rico,No,PRI,No,No
+180,634, Qatar,Yes,QAT,No,No
+181,638, Réunion,No,REU,No,No
+182,642, Romania,Yes,ROU,No,No
+183,643, Russian Federation,Yes,RUS,No,No
+184,646, Rwanda,Yes,RWA,No,No
+185,652, Saint Barthélemy,No,BLM,No,No
+186,654," Saint Helena, Ascension and Tristan da Cunha",No,SHN,No,No
+187,659, Saint Kitts and Nevis,Yes,KNA,No,No
+188,662, Saint Lucia,Yes,LCA,No,No
+189,663, Saint Martin (French part),No,MAF,No,No
+190,666, Saint Pierre and Miquelon,No,SPM,No,No
+191,670, Saint Vincent and the Grenadines,Yes,VCT,Yes,No
+192,882, Samoa,Yes,WSM,Yes,No
+193,674, San Marino,Yes,SMR,No,No
+194,678, Sao Tome and Principe,Yes,STP,No,No
+195,682, Saudi Arabia,Yes,SAU,No,No
+196,686, Senegal,Yes,SEN,No,No
+197,688, Serbia,Yes,SRB,No,No
+198,690, Seychelles,Yes,SYC,Yes,No
+199,694, Sierra Leone,Yes,SLE,No,No
+200,702, Singapore,Yes,SGP,No,Yes
+201,534, Sint Maarten (Dutch part),No,SXM,No,No
+202,703, Slovakia,Yes,SVK,No,No
+203,705, Slovenia,Yes,SVN,No,No
+204,90, Solomon Islands,Yes,SLB,No,No
+205,706, Somalia,Yes,SOM,No,No
+206,710, South Africa,Yes,ZAF,No,No
+207,239, South Georgia and the South Sandwich Islands,No,SGS,No,No
+208,728, South Sudan,Yes,SSD,No,No
+209,724, Spain,Yes,ESP,No,No
+210,144, Sri Lanka,Yes,LKA,No,No
+211,729, Sudan,Yes,SDN,No,No
+212,740, Suriname,Yes,SUR,No,No
+213,744, Svalbard and Jan Mayen,No,SJM,No,No
+214,752, Sweden,Yes,SWE,No,No
+215,756, Switzerland,Yes,CHE,No,Yes
+216,760, Syrian Arab Republic,Yes,SYR,No,No
+217,158," Taiwan, Province of China",No,TWN,Yes,No
+218,762, Tajikistan,Yes,TJK,No,No
+219,834," Tanzania, United Republic of",Yes,TZA,No,No
+220,764, Thailand,Yes,THA,No,No
+221,626, Timor-Leste,Yes,TLS,No,No
+222,768, Togo,Yes,TGO,No,No
+223,772, Tokelau,No,TKL,No,No
+224,776, Tonga,Yes,TON,Yes,No
+225,780, Trinidad and Tobago,Yes,TTO,No,No
+226,788, Tunisia,Yes,TUN,No,No
+227,792, Turkey,Yes,TUR,No,No
+228,795, Turkmenistan,Yes,TKM,No,No
+229,796, Turks and Caicos Islands,No,TCA,Yes,No
+230,798, Tuvalu,Yes,TUV,No,No
+231,800, Uganda,Yes,UGA,No,No
+232,804, Ukraine,Yes,UKR,No,No
+233,784, United Arab Emirates,Yes,ARE,No,No
+234,826, United Kingdom of Great Britain and Northern Ireland,Yes,GBR,No,Yes
+235,840, United States of America,Yes,USA,No,No
+236,581, United States Minor Outlying Islands,No,UMI,No,No
+237,858, Uruguay,Yes,URY,No,No
+238,860, Uzbekistan,Yes,UZB,No,No
+239,548, Vanuatu,Yes,VUT,Yes,No
+240,862, Venezuela (Bolivarian Republic of),Yes,VEN,No,No
+241,704, Viet Nam,Yes,VNM,No,No
+242,92, Virgin Islands (British),No,VGB,Yes,No
+243,850, Virgin Islands (U.S.),No,VIR,No,No
+244,876, Wallis and Futuna,No,WLF,No,No
+245,732, Western Sahara,No,ESH,No,No
+246,887, Yemen,Yes,YEM,No,No
+247,894, Zambia,Yes,ZMB,No,No
+248,716, Zimbabwe,Yes,ZWE,No,No
